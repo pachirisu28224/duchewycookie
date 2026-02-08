@@ -1,3 +1,5 @@
+#두쫀쿠 주문 및 재고관리
+
 class Shop {
 
     int stock; //재고
